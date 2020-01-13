@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642300474508",
+    "firebase_url": "https://test-c90dc.firebaseio.com",
+    "project_id": "test-c90dc",
+    "storage_bucket": "test-c90dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642300474508:android:01843efc38870fa873f7a9",
+        "android_client_info": {
+          "package_name": "com.testnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642300474508-k56nju5jujqnb97nkh3hli8ne4tcm2d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxwGXRdLLSRFKnmU3WXX0yhAH9fY8Myc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642300474508-k56nju5jujqnb97nkh3hli8ne4tcm2d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
